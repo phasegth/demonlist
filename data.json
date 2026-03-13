@@ -11,7 +11,7 @@
     "name": "Blood Diamond",
     "verifier": "Carne",
     "difficulty": "Extreme Demon",
-    "link": "https://www.youtube.com/watch?v=LraI0ma0oXI" 
+    "link": "https://www.youtube.com/watch?v=LraI0ma0oXI"
   },
   {
     "rank": 3,
@@ -19,5 +19,47 @@
     "verifier": "Hydrog",
     "difficulty": "Extreme Demon",
     "link": "https://www.youtube.com/watch?v=O25pVNm-9QI"
+  },
+  {
+    "rank": 4,
+    "name": "The Deep Abyss",
+    "verifier": "Venuslxvi",
+    "difficulty": "Extreme Demon",
+  },
+  {
+    "rank": 5,
+    "name": "Rancor",
+    "verifier": "Meteor_Impact",
+    "difficulty": "Extreme Demon",
+  },
+  {
+    "rank": 6,
+    "name": "In Circles",
+    "verifier": "Venuslxvi",
+    "difficulty": "Extreme Demon",
+  },
+  {
+    "rank": 7,
+    "name": "Infinity Circles",
+    "verifier": "Meteor_Impact",
+    "difficulty": "Extreme Demon",
+  },
+  {
+    "rank": 8,
+    "name": "Blooddust",
+    "verifier": "Shrekkus",
+    "difficulty": "Extreme Demon",
+  },
+  {
+    "rank": 9,
+    "name": "Doi Nhat",
+    "verifier": "GreenGMD",
+    "difficulty": "Extreme Demon",
+  },
+  {
+    "rank": 10,
+    "name": "Ricochet",
+    "verifier": "Rayan122",
+    "difficulty": "Extreme Demon",
   }
 ]
