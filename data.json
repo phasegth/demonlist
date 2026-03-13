@@ -4,13 +4,20 @@
     "name": "Dashscapes",
     "verifier": "Miguet",
     "difficulty": "Extreme Demon",
-    "link": "https://www.youtube.com/watch?v=example1"
+    "link": "https://www.youtube.com/watch?v=sx00wwy6yLw"
   },
   {
     "rank": 2,
+    "name": "Blood Diamond",
+    "verifier": "Carne",
+    "difficulty": "Extreme Demon",
+    "link": "https://www.youtube.com/watch?v=LraI0ma0oXI" 
+  },
+  {
+    "rank": 3,
     "name": "Anticulture",
     "verifier": "Hydrog",
     "difficulty": "Extreme Demon",
-    "link": "https://www.youtube.com/watch?v=zkjFdd3TzgQ"
+    "link": "https://www.youtube.com/watch?v=O25pVNm-9QI"
   }
 ]
