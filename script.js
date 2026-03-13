@@ -12,7 +12,7 @@ async function loadList() {
             <div class="rank">#${level.rank}</div>
             <div class="info">
                 <h3>${level.name}</h3>
-                <p>By ${level.author} - <strong>${level.difficulty}</strong></p>
+                <p>By ${level.verifier} - <strong>${level.difficulty}</strong></p>
                 <a href="${level.link}" target="_blank">Watch Video</a>
             </div>
         `;
